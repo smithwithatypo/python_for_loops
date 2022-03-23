@@ -1,3 +1,18 @@
+'''
+___For Loop Tutorial___
+
+For loops give us a way to traverse through collections of data.
+
+
+Learning Objectives
+- construct a For loop
+- traverse a List
+- change a List item if it meets certain conditions
+
+'''
+
+
+
 
 # For loops
 # for number in range(0,4):
